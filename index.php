@@ -16,7 +16,7 @@
 
 <body>
     <div id="head">
-        <h1>Hello Github</h1>
+        <h1>Hello Github php</h1>
     </div>
 </body>
 
